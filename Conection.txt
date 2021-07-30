@@ -1,2 +1,5 @@
 Primero habilitar para que sea SQL server o Windows Authentication.
 sqlcmd -U sa -S WIN-xxx\SQLEXPRESS
+SQL Server Browser tiene que correr?
+About Native Client...
+https://www.mertech.com/blog/how-and-when-to-use-sql-server-native-client
